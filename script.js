@@ -62,7 +62,7 @@ evetBtn.addEventListener('click', () => {
     soru.innerHTML = `
         İVİTT DİCENİ BİLİYORDUM 💖<br>
         HEMEN YAZ: <br>
-        <a href="https://wa.me/${telefonNumarasi}?text=Siteni%20gördüm,%20kabul%20ediyorum!%20🥰" 
+        <a href="https://wa.me/${telefonNumarasi}?text=EVET%20EVET%20EVET🥰" 
            target="_blank" 
            style="display:inline-block; margin-top:15px; padding:12px 24px; background-color:#25D366; color:white; text-decoration:none; border-radius:50px; font-weight:bold; font-size:1.2rem; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
            WhatsApp'tan Yaz 💬
